@@ -1,0 +1,214 @@
+<!-- Basement=1, Caves=2, Depths=3, Womb=4, Sheol=5, Chest=6 -->
+<!-- altStages: Bitmask of 1 << (Original: 0, WOTL: 1, Afterbirth: 2) -->
+<fxLayers gfxroot="gfx/">
+
+ <fx id="70" path="backdrop/FX/Shadow Colors/Old Temple Black.png" numLayers="1" xMin="0" xMax="0" yMin="0" yMax="0" layer="foreground" stage="1" altStages="1" />
+ <fx id="70" path="backdrop/FX/Foreground/Star Dust.png" numLayers="7" xMin="-1" xMax="1" yMin="-2" yMax="2" layer="foreground" stage="1" altStages="1" />
+ <fx id="70" path="backdrop/FX/Shadow Colors/Old Temple Black.png" numLayers="1" xMin="0" xMax="0" yMin="0" yMax="0" layer="foreground" stage="1" altStages="4" />
+ <fx id="70" path="backdrop/FX/Foreground/Star Dust.png" numLayers="7" xMin="-1" xMax="1" yMin="-2" yMax="2" layer="foreground" stage="1" altStages="4" />
+ <fx id="70" path="backdrop/FX/Shadow Colors/Forge Black.png" numLayers="1" xMin="0" xMax="0" yMin="0" yMax="0" layer="foreground" stage="1" altStages="2" />
+ <fx id="70" path="backdrop/FX/Foreground/Smither Dust.png" numLayers="4" xMin="-0.5" xMax="0.5" yMin="0" yMax="0" layer="foreground" stage="1" altStages="2" />
+ <fx id="70" path="backdrop/FX/Foreground/Smither Dust.png" numLayers="7" xMin="-0.5" xMax="0.5" yMin="0" yMax="0" layer="foreground" stage="2" altStages="3"  />
+ <fx id="70" path="backdrop/FX/Foreground/Smither Dust.png" numLayers="7" xMin="-0.5" xMax="0.5" yMin="0" yMax="0" layer="foreground" stage="2" altStages="4" />
+ <fx id="70" path="backdrop/FX/Behind/Blue Quatery.png" numLayers="2" xMin="-4.5" xMax="0.7" yMin="0" yMax="0" layer="behind" stage="2" onlyDefaultBackdrop="true"  />
+ <fx id="70" path="backdrop/FX/Behind/Red Quatery.png" numLayers="2" xMin="-4.5" xMax="0.7" yMin="0" yMax="0" layer="behind" stage="2" altStages="2" onlyDefaultBackdrop="true"  />
+ <fx id="70" path="backdrop/FX/Behind/Purple Quatery.png" numLayers="2" xMin="0" xMax="0" yMin="-4.5" yMax="0.7" layer="behind" stage="2" altStages="4" onlyDefaultBackdrop="true"  />
+ <fx id="70" path="backdrop/FX/Shadow Colors/Endrohj Purple.png" numLayers="1" xMin="0" xMax="0" yMin="0" yMax="0" layer="foreground" stage="2" altStages="4" />
+ <fx id="70" path="backdrop/FX/Foreground/Cloud Of Disease.png" numLayers="3" xMin="-0.5" xMax="0.5" yMin="0" yMax="0" layer="foreground" stage="3" altStages="1"  />
+ <fx id="70" path="backdrop/FX/Shadow Colors/Rotting Black.png" numLayers="1" xMin="0" xMax="0" yMin="0" yMax="0" layer="foreground" stage="3" altStages="1" />
+ <fx id="70" path="backdrop/FX/Foreground/Rotting Stars.png" numLayers="7" xMin="-1" xMax="1" yMin="-2" yMax="2" layer="foreground" stage="3" altStages="1" />
+ <fx id="70" path="backdrop/FX/Foreground/Rotting Stars_2.png" numLayers="7" xMin="-1" xMax="1" yMin="-2" yMax="2" layer="foreground" stage="3" altStages="1" />
+ <fx id="70" path="backdrop/FX/Foreground/Cloud Of Disease.png" numLayers="3" xMin="-0.5" xMax="0.5" yMin="0" yMax="0" layer="foreground" stage="3" altStages="4"  />
+ <fx id="70" path="backdrop/FX/Shadow Colors/Rotting Black.png" numLayers="1" xMin="0" xMax="0" yMin="0" yMax="0" layer="foreground" stage="3" altStages="4" />
+ <fx id="70" path="backdrop/FX/Foreground/Rotting Stars.png" numLayers="7" xMin="-1" xMax="1" yMin="-2" yMax="2" layer="foreground" stage="3" altStages="4" />
+ <fx id="70" path="backdrop/FX/Foreground/Rotting Stars_2.png" numLayers="7" xMin="-1" xMax="1" yMin="-2" yMax="2" layer="foreground" stage="3" altStages="4" />
+ <fx id="70" path="backdrop/FX/Shadow Colors/Oban Black.png" numLayers="1" xMin="0" xMax="0" yMin="0" yMax="0" layer="foreground" stage="3" altStages="2" />
+ <fx id="70" path="backdrop/FX/Foreground/Oban Stripes.png" numLayers="2" xMin="-6" xMax="6" yMin="0" yMax="0" layer="foreground" stage="3" altStages="2" />
+ <fx id="70" path="backdrop/FX/Foreground/Oban Stripez.png" numLayers="2" xMin="0" xMax="0" yMin="-1" yMax="1" layer="foreground" stage="3" altStages="2" />
+ <fx id="70" path="backdrop/FX/Foreground/Rotting Stars.png" numLayers="7" xMin="-1" xMax="1" yMin="-2" yMax="2" layer="foreground" stage="3" altStages="2" />
+ <fx id="70" path="backdrop/FX/Foreground/Rotting Stars_2.png" numLayers="7" xMin="-1" xMax="1" yMin="-2" yMax="2" layer="foreground" stage="3" altStages="2" />
+ <fx id="70" path="backdrop/FX/Shadow Colors/Cove Blue.png" numLayers="1" xMin="0" xMax="0" yMin="0" yMax="0" layer="foreground" stage="4" altStages="3" />
+ <fx id="70" path="backdrop/FX/Foreground/Cove Fground.png" numLayers="4" xMin="-1" xMax="1" yMin="-2" yMax="2" layer="foreground" stage="4" altStages="3" />
+ <fx id="70" path="backdrop/FX/Foreground/Cove Fground2.png" numLayers="2" xMin="-1" xMax="1" yMin="-2" yMax="2" layer="foreground" stage="4" altStages="3" />
+ <fx id="70" path="backdrop/FX/Shadow Colors/Hall Black.png" numLayers="1" xMin="0" xMax="0" yMin="0" yMax="0" layer="foreground" stage="4" altStages="4" />
+ <fx id="70" path="backdrop/FX/Foreground/Rotting Stars.png" numLayers="10" xMin="-10" xMax="1" yMin="-10" yMax="2" layer="foreground" stage="4" altStages="4" />
+ <fx id="70" path="Nirvana Sky.png" numLayers="3" xMin="-1.5" xMax="1.5" yMin="-1.5" yMax="1.5" layer="behind" stage="5" altStages="2" onlyDefaultBackdrop="true" />
+ <fx id="70" path="Nirvana Sky.png"  numLayers="1" xMin="-1" xMax="1" yMin="-1" yMax="1" layer="behind" stage="6" altStages="2" onlyDefaultBackdrop="true" />
+ <fx id="70" path="backdrop/FX/Foreground/Bone Dust.png" numLayers="6" xMin="-0.5" xMax="0.5" yMin="0" yMax="0" layer="foreground" stage="5" altStages="2" />
+ <fx id="70" path="backdrop/FX/Foreground/Bone Dust.png" numLayers="6" xMin="-0.5" xMax="0.5" yMin="0" yMax="0" layer="foreground" stage="6" />
+ <fx id="70" path="backdrop/FX/Foreground/Bone Dust.png" numLayers="6" xMin="-0.5" xMax="0.5" yMin="0" yMax="0" layer="foreground" stage="5" altstages="2" />
+ <fx id="70" path="backdrop/FX/Foreground/Bone Dust.png" numLayers="6" xMin="-0.5" xMax="0.5" yMin="0" yMax="0" layer="foreground" stage="6" altStages="2" />
+ <fx id="70" path="backdrop/FX/Shadow Colors/Cove Blue.png" numLayers="1" xMin="0" xMax="0" yMin="0" yMax="0" layer="foreground" stage="6" />
+	<!-- Graphics replacements -->
+	<fx id="6" path="Overlays/fx_grid.png" numLayers="1" xMin="-10" yMin="-10" xMax="10" yMax="10" layer="foreground" stage="1" altStages="7" parallax="0.025">
+
+	<gfx path="Overlays/Basement/1x1_overlay_2.png" roomshape="1"/>
+	<gfx path="Overlays/Basement/1x1_overlay_3.png" roomshape="1"/>
+	<gfx path="Overlays/Basement/1x1_overlay_4.png" roomshape="1"/>
+	<gfx path="Overlays/Basement/1x1_overlay_5.png" roomshape="1"/>
+	<gfx path="Overlays/Basement/1x1_overlay_1.png" roomshape="1"/>
+	<gfx path="Overlays/Basement/2x1_overlay_1.png" roomshape="6"/>
+	<gfx path="Overlays/Basement/2x1_overlay_2.png" roomshape="6"/>
+	<gfx path="Overlays/Basement/2x1_overlay_3.png" roomshape="6"/>
+	<gfx path="Overlays/Basement/2x1_overlay_4.png" roomshape="6"/>
+	<gfx path="Overlays/Basement/2x1_overlay_5.png" roomshape="6"/>
+	<gfx path="Overlays/Basement/1x2_overlay_1.png" roomshape="4"/>
+	<gfx path="Overlays/Basement/1x2_overlay_2.png" roomshape="4"/>
+	<gfx path="Overlays/Basement/1x2_overlay_3.png" roomshape="4"/>
+	<gfx path="Overlays/Basement/1x2_overlay_4.png" roomshape="4"/>
+	<gfx path="Overlays/Basement/1x2_overlay_5.png" roomshape="4"/>
+	<gfx path="Overlays/Basement/2x2_overlay_1.png" roomshape="8"/>
+	<gfx path="Overlays/Basement/2x2_overlay_2.png" roomshape="8"/>
+	<gfx path="Overlays/Basement/2x2_overlay_3.png" roomshape="8"/>
+	<gfx path="Overlays/Basement/2x2_overlay_4.png" roomshape="8"/>
+	<gfx path="Overlays/Basement/2x2_overlay_5.png" roomshape="8"/>
+ </fx>
+  <fx id="9" path="Overlays/fx_grid.png" numLayers="1" xMin="-10" yMin="-10" xMax="10" yMax="10" layer="foreground" stage="2" altStages="7" parallax="0.025">
+	<!-- Graphics replacements -->
+	<gfx path="Overlays/Caves/1x1_overlay_2.png" roomshape="1"/>
+	<gfx path="Overlays/Caves/1x1_overlay_3.png" roomshape="1"/>
+	<gfx path="Overlays/Caves/1x1_overlay_4.png" roomshape="1"/>
+	<gfx path="Overlays/Caves/1x1_overlay_5.png" roomshape="1"/>
+	<gfx path="Overlays/Caves/1x1_overlay_1.png" roomshape="1"/>
+	<gfx path="Overlays/Caves/2x1_overlay_1.png" roomshape="6"/>
+	<gfx path="Overlays/Caves/2x1_overlay_2.png" roomshape="6"/>
+	<gfx path="Overlays/Caves/2x1_overlay_3.png" roomshape="6"/>
+	<gfx path="Overlays/Caves/2x1_overlay_4.png" roomshape="6"/>
+	<gfx path="Overlays/Caves/2x1_overlay_5.png" roomshape="6"/>
+	<gfx path="Overlays/Caves/1x2_overlay_1.png" roomshape="4"/>
+	<gfx path="Overlays/Caves/1x2_overlay_2.png" roomshape="4"/>
+	<gfx path="Overlays/Caves/1x2_overlay_3.png" roomshape="4"/>
+	<gfx path="Overlays/Caves/1x2_overlay_4.png" roomshape="4"/>
+	<gfx path="Overlays/Caves/1x2_overlay_5.png" roomshape="4"/>
+	<gfx path="Overlays/Caves/2x2_overlay_1.png" roomshape="8"/>
+	<gfx path="Overlays/Caves/2x2_overlay_2.png" roomshape="8"/>
+	<gfx path="Overlays/Caves/2x2_overlay_3.png" roomshape="8"/>
+	<gfx path="Overlays/Caves/2x2_overlay_4.png" roomshape="8"/>
+	<gfx path="Overlays/Caves/2x2_overlay_5.png" roomshape="8"/>
+ </fx>
+ <fx id="10" path="Overlays/fx_grid.png" numLayers="1" xMin="-10" yMin="-10" xMax="10" yMax="10" layer="foreground" stage="3" altStages="7" parallax="0.025">
+	<!-- Graphics replacements -->
+	<gfx path="Overlays/Depths/1x1_overlay_2.png" roomshape="1"/>
+	<gfx path="Overlays/Depths/1x1_overlay_3.png" roomshape="1"/>
+	<gfx path="Overlays/Depths/1x1_overlay_4.png" roomshape="1"/>
+	<gfx path="Overlays/Depths/1x1_overlay_5.png" roomshape="1"/>
+	<gfx path="Overlays/Depths/1x1_overlay_1.png" roomshape="1"/>
+	<gfx path="Overlays/Depths/2x1_overlay_1.png" roomshape="6"/>
+	<gfx path="Overlays/Depths/2x1_overlay_2.png" roomshape="6"/>
+	<gfx path="Overlays/Depths/2x1_overlay_3.png" roomshape="6"/>
+	<gfx path="Overlays/Depths/2x1_overlay_4.png" roomshape="6"/>
+	<gfx path="Overlays/Depths/2x1_overlay_5.png" roomshape="6"/>
+	<gfx path="Overlays/Depths/1x2_overlay_1.png" roomshape="4"/>
+	<gfx path="Overlays/Depths/1x2_overlay_2.png" roomshape="4"/>
+	<gfx path="Overlays/Depths/1x2_overlay_3.png" roomshape="4"/>
+	<gfx path="Overlays/Depths/1x2_overlay_4.png" roomshape="4"/>
+	<gfx path="Overlays/Depths/1x2_overlay_5.png" roomshape="4"/>
+	<gfx path="Overlays/Depths/2x2_overlay_1.png" roomshape="8"/>
+	<gfx path="Overlays/Depths/2x2_overlay_2.png" roomshape="8"/>
+	<gfx path="Overlays/Depths/2x2_overlay_3.png" roomshape="8"/>
+	<gfx path="Overlays/Depths/2x2_overlay_4.png" roomshape="8"/>
+	<gfx path="Overlays/Depths/2x2_overlay_5.png" roomshape="8"/>
+ </fx>
+ <fx id="11" path="Overlays/fx_grid.png" numLayers="1" xMin="-10" yMin="-10" xMax="10" yMax="10" layer="foreground" stage="4" altStages="7" parallax="0.02">
+	<!-- Graphics replacements -->
+	<gfx path="Overlays/Womb/1x1_overlay_2.png" roomshape="1"/>
+	<gfx path="Overlays/Womb/1x1_overlay_3.png" roomshape="1"/>
+	<gfx path="Overlays/Womb/1x1_overlay_4.png" roomshape="1"/>
+	<gfx path="Overlays/Womb/1x1_overlay_5.png" roomshape="1"/>
+	<gfx path="Overlays/Womb/1x1_overlay_1.png" roomshape="1"/>
+	<gfx path="Overlays/Womb/2x1_overlay_1.png" roomshape="6"/>
+	<gfx path="Overlays/Womb/2x1_overlay_2.png" roomshape="6"/>
+	<gfx path="Overlays/Womb/2x1_overlay_3.png" roomshape="6"/>
+	<gfx path="Overlays/Womb/2x1_overlay_4.png" roomshape="6"/>
+	<gfx path="Overlays/Womb/2x1_overlay_5.png" roomshape="6"/>
+	<gfx path="Overlays/Womb/1x2_overlay_1.png" roomshape="4"/>
+	<gfx path="Overlays/Womb/1x2_overlay_2.png" roomshape="4"/>
+	<gfx path="Overlays/Womb/1x2_overlay_3.png" roomshape="4"/>
+	<gfx path="Overlays/Womb/1x2_overlay_4.png" roomshape="4"/>
+	<gfx path="Overlays/Womb/1x2_overlay_5.png" roomshape="4"/>
+	<gfx path="Overlays/Womb/2x2_overlay_1.png" roomshape="8"/>
+	<gfx path="Overlays/Womb/2x2_overlay_2.png" roomshape="8"/>
+	<gfx path="Overlays/Womb/2x2_overlay_3.png" roomshape="8"/>
+	<gfx path="Overlays/Womb/2x2_overlay_4.png" roomshape="8"/>
+	<gfx path="Overlays/Womb/2x2_overlay_5.png" roomshape="8"/>
+ </fx>
+ <fx id="12" path="Overlays/fx_grid.png" numLayers="1" xMin="-10" yMin="-10" xMax="10" yMax="10" layer="foreground" stage="6" altStages="2" parallax="0.02">
+	<!-- Graphics replacements -->
+	<gfx path="Overlays/Chest/1x1_overlay_1.png" roomshape="1"/>
+	<gfx path="Overlays/Chest/2x1_overlay_1.png" roomshape="6"/>
+	<gfx path="Overlays/Chest/1x2_overlay_1.png" roomshape="4"/>
+	<gfx path="Overlays/Chest/2x2_overlay_1.png" roomshape="8"/>
+ </fx>
+ <fx id="13" path="Overlays/fx_grid.png" numLayers="1" xMin="-10" yMin="-10" xMax="10" yMax="10" layer="foreground" stage="5" altStages="2" parallax="0.02">
+	<!-- Graphics replacements -->
+	<gfx path="Overlays/Cathedral/1x1_overlay_2.png" roomshape="1"/>
+	<gfx path="Overlays/Cathedral/1x1_overlay_3.png" roomshape="1"/>
+	<gfx path="Overlays/Cathedral/1x1_overlay_4.png" roomshape="1"/>
+	<gfx path="Overlays/Cathedral/1x1_overlay_5.png" roomshape="1"/>
+	<gfx path="Overlays/Cathedral/1x1_overlay_1.png" roomshape="1"/>
+	<gfx path="Overlays/Cathedral/2x1_overlay_1.png" roomshape="6"/>
+	<gfx path="Overlays/Cathedral/2x1_overlay_2.png" roomshape="6"/>
+	<gfx path="Overlays/Cathedral/2x1_overlay_3.png" roomshape="6"/>
+	<gfx path="Overlays/Cathedral/2x1_overlay_4.png" roomshape="6"/>
+	<gfx path="Overlays/Cathedral/2x1_overlay_5.png" roomshape="6"/>
+	<gfx path="Overlays/Cathedral/1x2_overlay_1.png" roomshape="4"/>
+	<gfx path="Overlays/Cathedral/1x2_overlay_2.png" roomshape="4"/>
+	<gfx path="Overlays/Cathedral/1x2_overlay_3.png" roomshape="4"/>
+	<gfx path="Overlays/Cathedral/1x2_overlay_4.png" roomshape="4"/>
+	<gfx path="Overlays/Cathedral/1x2_overlay_5.png" roomshape="4"/>
+	<gfx path="Overlays/Cathedral/2x2_overlay_1.png" roomshape="8"/>
+	<gfx path="Overlays/Cathedral/2x2_overlay_2.png" roomshape="8"/>
+	<gfx path="Overlays/Cathedral/2x2_overlay_3.png" roomshape="8"/>
+	<gfx path="Overlays/Cathedral/2x2_overlay_4.png" roomshape="8"/>
+	<gfx path="Overlays/Cathedral/2x2_overlay_5.png" roomshape="8"/>
+ </fx>
+ <fx id="14" path="Overlays/fx_grid.png" numLayers="1" xMin="-10" yMin="-10" xMax="10" yMax="10" layer="foreground" stage="6" altStages="1" parallax="0.02">
+	<!-- Graphics replacements -->
+	<gfx path="Overlays/Sheol/1x1_overlay_2.png" roomshape="1"/>
+	<gfx path="Overlays/Sheol/1x1_overlay_3.png" roomshape="1"/>
+	<gfx path="Overlays/Sheol/1x1_overlay_4.png" roomshape="1"/>
+	<gfx path="Overlays/Sheol/1x1_overlay_5.png" roomshape="1"/>
+	<gfx path="Overlays/Sheol/1x1_overlay_1.png" roomshape="1"/>
+	<gfx path="Overlays/Sheol/2x1_overlay_1.png" roomshape="6"/>
+	<gfx path="Overlays/Sheol/2x1_overlay_2.png" roomshape="6"/>
+	<gfx path="Overlays/Sheol/2x1_overlay_3.png" roomshape="6"/>
+	<gfx path="Overlays/Sheol/2x1_overlay_4.png" roomshape="6"/>
+	<gfx path="Overlays/Sheol/2x1_overlay_5.png" roomshape="6"/>
+	<gfx path="Overlays/Sheol/1x2_overlay_1.png" roomshape="4"/>
+	<gfx path="Overlays/Sheol/1x2_overlay_2.png" roomshape="4"/>
+	<gfx path="Overlays/Sheol/1x2_overlay_3.png" roomshape="4"/>
+	<gfx path="Overlays/Sheol/1x2_overlay_4.png" roomshape="4"/>
+	<gfx path="Overlays/Sheol/1x2_overlay_5.png" roomshape="4"/>
+	<gfx path="Overlays/Sheol/2x2_overlay_1.png" roomshape="8"/>
+	<gfx path="Overlays/Sheol/2x2_overlay_2.png" roomshape="8"/>
+	<gfx path="Overlays/Sheol/2x2_overlay_3.png" roomshape="8"/>
+	<gfx path="Overlays/Sheol/2x2_overlay_4.png" roomshape="8"/>
+	<gfx path="Overlays/Sheol/2x2_overlay_5.png" roomshape="8"/>
+ </fx>
+</fxLayers>
+<fxRays>
+ <rayGroup xMin="-150" xMax="150" topParallax="-0.025" bottomParallax="-0.08" rayLength="250" raySpacing="-55" perspective="1.5" stages="1a,1b">
+  <fxRay opacity="0.7" animationSpeed="0.01" path="backdrop/fx_ray.png"/>
+  <fxRay opacity="0.7" animationSpeed="0.01" path="backdrop/fx_ray_2.png"/>
+  <fxRay opacity="0.7" animationSpeed="0.01" path="backdrop/fx_ray.png"/>
+ </rayGroup>
+ <rayGroup xMin="-250" xMax="250" topParallax="-0.025" bottomParallax="-0.08" rayLength="200" raySpacing="-55" perspective="1.5" stages="1a,1b">
+  <fxRay opacity="0.6" animationSpeed="0.01" path="backdrop/fx_ray_2.png"/>
+  <fxRay opacity="0.6" animationSpeed="0.005" path="backdrop/fx_ray.png"/>
+  <fxRay opacity="0.6" animationSpeed="0.005" path="backdrop/fx_ray_2.png"/>
+  <fxRay opacity="0.6" animationSpeed="0.01" path="backdrop/fx_ray.png"/>
+  <fxRay opacity="0.6" animationSpeed="0.01" path="backdrop/fx_ray_2.png"/>
+ </rayGroup>
+  <rayGroup xMin="-150" xMax="150" topParallax="-0.025" bottomParallax="-0.08" rayLength="250" raySpacing="-55" perspective="2" stages="5ab">
+  <fxRay opacity="1" animationSpeed="0.01" path="backdrop/fx_ray_3.png"/>
+  <fxRay opacity="1" animationSpeed="0.01" path="backdrop/fx_ray_4.png"/>
+  <fxRay opacity="1" animationSpeed="0.01" path="backdrop/fx_ray_3.png"/>
+ </rayGroup>
+  <rayGroup xMin="-250" xMax="250" topParallax="-0.025" bottomParallax="-0.08" rayLength="200" raySpacing="-55" perspective="2" stages="5ab">
+  <fxRay opacity="1" animationSpeed="0.01" path="backdrop/fx_ray_4.png"/>
+  <fxRay opacity="1" animationSpeed="0.01" path="backdrop/fx_ray_3.png"/>
+  <fxRay opacity="1" animationSpeed="0.01" path="backdrop/fx_ray_4.png"/>
+  <fxRay opacity="1" animationSpeed="0.01" path="backdrop/fx_ray_3.png"/>
+  <fxRay opacity="1" animationSpeed="0.01" path="backdrop/fx_ray_4.png"/>
+ </rayGroup>
+</fxRays>

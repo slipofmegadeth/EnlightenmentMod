@@ -1,0 +1,30 @@
+<backdrops gfxroot="gfx/backdrop/">
+	<backdrop id="1" gfx="01.1.Templar_Temple.png" walls="1" wallvariants="1" floors="1" floorvariants="1" lfloorgfx="01.1.a.png" nfloorgfx="01.1.b.png" />
+	<backdrop id="2" gfx="01.2.The_Forge.png" walls="1" wallvariants="1" floors="1" floorvariants="1" lfloorgfx="01.2.a.png" nfloorgfx="01.2.b.png" />
+	<backdrop id="3" gfx="01.1.Templar_Temple.png" walls="1" wallvariants="1" floors="1" floorvariants="1" lfloorgfx="01.1.a.png" nfloorgfx="01.1.b.png" />
+	<backdrop id="4" gfx="02.Darkmatter.png" walls="1" wallvariants="1" floors="1" floorvariants="1" lfloorgfx="02.a.png" nfloorgfx="02.b.png" />
+	<backdrop id="5" gfx="02.Darkmatter.png" walls="1" wallvariants="1" floors="1" floorvariants="1" lfloorgfx="02.a.png" nfloorgfx="02.b.png" />
+	<backdrop id="6" gfx="02.Darkmatter.png" walls="1" wallvariants="1" floors="1" floorvariants="1" lfloorgfx="02.a.png" nfloorgfx="02.b.png" />
+	<backdrop id="7" gfx="03.1.Rotting_Cove.png" walls="1" wallvariants="1" floors="1" floorvariants="1" lfloorgfx="03.1.a.png" nfloorgfx="03.1.b.png" />
+	<backdrop id="8" gfx="03.2.Wallless_Asylum.png" walls="1" wallvariants="1" floors="1" floorvariants="1" lfloorgfx="03.2.a.png" nfloorgfx="03.2.b.png" />
+	<backdrop id="9" gfx="03.1.Rotting_Cove.png" walls="1" wallvariants="1" floors="1" floorvariants="1" lfloorgfx="03.1.a.png" nfloorgfx="03.1.b.png" />
+	<backdrop id="10" gfx="04.1.Blue_Cove.png" walls="1" wallvariants="1" floors="1" floorvariants="1" lfloorgfx="04.1.a.png" nfloorgfx="04.1.b.png" />
+	<backdrop id="11" gfx="04.1.Blue_Cove.png" walls="1" wallvariants="1" floors="1" floorvariants="1" lfloorgfx="04.1.a.png" nfloorgfx="04.1.b.png" />
+	<backdrop id="12" gfx="04.2.The_Hall.png" walls="1" wallvariants="1" floors="1" floorvariants="1" watergfx="FX/water_blood.png" lfloorgfx="04.2.a.png" nfloorgfx="04.2.b.png" />
+	<backdrop id="13" gfx="18_Blue Womb.png" walls="1" wallvariants="6" floors="1" floorvariants="6" />
+	<backdrop id="14" gfx="05.O_Negative.png" walls="1" wallvariants="1" floors="1" floorvariants="1" lfloorgfx="05.a.png" nfloorgfx="05.b.png" />
+	<backdrop id="15" gfx="06.Nirvana.png" walls="1" wallvariants="1" floors="1" floorvariants="6" lfloorgfx="06.a.png" nfloorgfx="06.b.png" />
+	<backdrop id="16" gfx="05.O_Negative.png" walls="1" wallvariants="1" floors="1" floorvariants="1" lfloorgfx="05.a.png" nfloorgfx="05.b.png" />
+	<backdrop id="17" gfx="06.Nirvana.png" walls="1" wallvariants="1" floors="1" floorvariants="6" lfloorgfx="06.a.png" nfloorgfx="06.b.png" />
+	<backdrop id="18" gfx="Mega_Satan_Land.anm2" walls="0" wallvariants="0" floors="1" floorvariants="4" />
+	<backdrop id="19" gfx="05.O_Negative.png" walls="1" wallvariants="1" floors="1" floorvariants="1" nfloorgfx="05.b.png" />
+	<backdrop id="20" gfx="00.2.Shop.png" walls="1" wallvariants="1" floors="1" floorvariants="1" nfloorgfx="01.1.b.png" />
+	<backdrop id="21" gfx="04.1.Blue_Cove.png" walls="1" wallvariants="1" floors="1" floorvariants="1" />
+	<backdrop id="22" gfx="05.O_Negative.png" walls="1" wallvariants="1" floors="1" floorvariants="1" />
+	<backdrop id="23" gfx="03.2.Wallless_Asylum.png" walls="1" wallvariants="1" floors="1" floorvariants="1" nfloorgfx="03.2.b.png" />
+	<backdrop id="24" gfx="0E_DiceRoom.png" walls="1" wallvariants="4" floors="1" floorvariants="6" nfloorgfx="0E_DiceRoom_nfloor.png" />
+	<backdrop id="25" gfx="00.2.Shop.png" walls="1" wallvariants="1" floors="1" floorvariants="1" />
+	<backdrop id="26" gfx="effect_error.anm2" walls="0" /> <!-- special handling -->
+	<backdrop id="27" gfx="17_Blue Secret.png" walls="1" wallvariants="6" floors="1" floorvariants="6" />
+	<backdrop id="28" gfx="05.O_Negative.png" walls="1" wallvariants="1" floors="1" floorvariants="1" />
+</backdrops>
